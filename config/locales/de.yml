@@ -296,7 +296,7 @@ de:
   cannot_create_returns: Cannot create returns as this order has not shipped yet.
   cannot_destory_line_item_as_inventory_units_have_shipped: Cannot destory line item as some inventory units have shipped.
   cannot_perform_operation: "Cannot perform requested operation"
-  capture: stornieren
+  capture: erfassen
   card_code: "Kartenprüfnummer"
   card_details: "Card details"
   card_number: "Kartennummer"
@@ -353,6 +353,7 @@ de:
   customer: Kunde
   customer_details: "Customer Details"
   customer_search: "Customer Search"
+  date: Datum
   date_created: Date created
   date_range: "Datum (von/bis)"
   debit: Debit
@@ -417,8 +418,8 @@ de:
   extensions: Erweiterungen
   filename: Dateiname
   final_confirmation: "Abschließende Bestätigung"
-  finalize: Finalize
-  finalized_payments: Finalized Payments
+  finalize: Abschließen
+  finalized_payments: Abgeschlossene Zahlungen
   first_item: First Item Cost
   first_name: Vorname
   first_name_begins_with: "Vorname beginnt mit"
@@ -515,7 +516,7 @@ de:
   mail_delivery_enabled: "Mailversand aktiviert"
   mail_delivery_not_enabled: "Mailversand deaktiviert"
   mail_methods: Mail Methods
-  mail_server_preferences: Mail Server Preferences
+  mail_server_preferences: Mail Server Einstellungen
   make_refund: Make refund
   mark_shipped: "Als versendet kennzeichnen"
   master_price: 'Verkaufspreis (netto)'
@@ -537,13 +538,13 @@ de:
   new_category: "Neue Kategorie"
   new_customer: "Neuer Kunde"
   new_image: "Neues Bild"
-  new_mail_method: New Mail Method
+  new_mail_method: Neue Mailversand Methode
   new_option_type: "Neue Option"
   new_option_value: "Neuer Optionswert"
   new_order: "Neue Bestellung"
   new_order_completed: "New Order Completed"
   new_payment: "New Payment"
-  new_payment_method: New Payment Method
+  new_payment_method: Neue Zahlungsart
   new_product: "Neues Produkt"
   new_product_group: "Neue Produktgruppe"
   new_promotion: New Promotion
@@ -1017,6 +1018,7 @@ de:
   this_month: "Diesen Monat"
   this_year: "Dieses Jahr"
   thumbnail: "Miniaturansicht"
+  time: Zeit
   to_add_variants_you_must_first_define: "Um Varianten hinzuzufügen, müssen Sie sie erst definieren."
   to_state: "To State"
   top_grossing_products: "Umsatzstärkste Produkte"
@@ -1063,7 +1065,7 @@ de:
   vat: "USt"
   version: Version
   view_shipping_options: "View shipping options"
-  void: Void
+  void: stornieren
   website: Webseite
   weight: Gewicht
   welcome_to_sample_store: "Willkommen im Beispiel-Shop"
